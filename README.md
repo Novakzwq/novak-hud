@@ -1,5 +1,5 @@
 # novak-hud
-**Credits: Novak**
+**Créditos: Novak**
 
 **Screenshots:**
 
